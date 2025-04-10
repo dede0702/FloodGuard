@@ -14,6 +14,14 @@ O aumento da frequência e intensidade das chuvas nas grandes cidades tem causad
 
 ---
 
+Integrantes
+
+- André Rovai Andrade Xavier Junior    RM555848
+- Renan de França Gonçalves            RM558413
+- Thiago Almança da Silva              RM558108
+
+---
+
 ## 🔧 Funcionalidades
 
 - 📡 **Sensores de Nível de Água**  
