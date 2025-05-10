@@ -1,129 +1,129 @@
 # FloodGuard IoT
 
-O **FloodGuard IoT** é uma solução tecnológica inovadora que visa mitigar os impactos das enchentes urbanas por meio do uso de **sensores inteligentes**, **inteligência artificial** e **comunicação em tempo real** com a população e autoridades públicas.
+O **FloodGuard IoT** é uma solução inovadora para mitigar os impactos das enchentes urbanas, utilizando **sensores inteligentes**, **inteligência artificial** e **comunicação em tempo real** com a população e autoridades públicas.
 
 ## 🚀 Visão Geral
 
-O aumento da frequência e intensidade das chuvas nas grandes cidades tem causado grandes prejuízos à população, infraestrutura e economia. A FloodGuard IoT busca resolver esse problema através de um sistema preventivo, sustentável e inteligente, integrando:
+O aumento da frequência e intensidade das chuvas nas grandes cidades tem causado grandes prejuízos à população, infraestrutura e economia. A **FloodGuard IoT** busca resolver esse problema por meio de um sistema preventivo, sustentável e inteligente, integrando:
 
-- **Sensores IoT** em pontos críticos de drenagem urbana.
-- **Painel de monitoramento em tempo real** para autoridades.
+- **Sensores IoT** para monitoramento de pontos críticos de drenagem urbana.
+- **Painel de monitoramento em tempo real** para autoridades e equipes de emergência.
 - **Alertas automáticos e geolocalizados** via app, SMS e e-mail.
-- **Modelos preditivos de IA** com dados meteorológicos e históricos.
+- **Modelos preditivos de IA**, com base em dados meteorológicos e históricos.
 - **Fontes de energia renovável**, como painéis solares e baterias de longa duração.
 
 ---
 
-Integrantes
+### 🚨 Impacto das Enchentes
 
-- André Rovai Andrade Xavier Junior    RM555848
-- Renan de França Gonçalves            RM558413
-- Thiago Almança da Silva              RM558108
+- **Enchentes no Rio Grande do Sul (Abril-Maio/2024)**:  
+  - **183 mortes**  
+  - **2,4 milhões de pessoas impactadas**  
+  - **Perdas econômicas superiores a R$ 10 bilhões**  
+  Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Enchentes_no_Rio_Grande_do_Sul_em_2024)
 
----
+- **Enchentes e deslizamentos no Sudeste (Janeiro/2020)**:  
+  - **75 mortes**  
+  - **Mais de 4 mil desalojados**  
+  Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Enchentes_e_deslizamentos_no_Sudeste_do_Brasil_em_2020)
 
-## 🔧 Funcionalidades
-
-- 📡 **Sensores de Nível de Água**  
-  Monitoramento contínuo do nível da água em bueiros e bocas de lobo.
-
-- 📊 **Análise Preditiva com IA**  
-  Algoritmos treinados com dados históricos e climáticos para prever enchentes com antecedência.
-
-- 📱 **Alertas Inteligentes**  
-  Notificações automáticas para moradores e Defesa Civil via aplicativo, SMS e sistemas integrados.
-
-- 🛰️ **Painel de Monitoramento para Prefeituras**  
-  Dashboard intuitivo para visualização de dados em tempo real e tomada de decisões rápidas.
-
-- 🔋 **Energia Sustentável**  
-  Funcionamento com painéis solares ou baterias com alta autonomia.
-
----
-
-## 🌎 Impacto Social e Sustentável
-
-### Alinhamento com os Objetivos de Desenvolvimento Sustentável (ODS):
-
-- **ODS 11** – Cidades e comunidades sustentáveis  
-- **ODS 13** – Ação contra a mudança global do clima  
-- **ODS 9** – Indústria, inovação e infraestrutura  
-
----
-
-## 🔍 Problema
-
-As cidades enfrentam sérios problemas com enchentes urbanas, agravados pelas mudanças climáticas, urbanização desordenada e infraestrutura deficiente:
-
-- Entupimento de bueiros por lixo e sedimentos.
-- Falta de monitoramento em tempo real.
-- Respostas tardias e ineficientes das autoridades.
-- Riscos à vida, prejuízos financeiros e caos na mobilidade urbana.
-
----
-
-## 📈 Pesquisa e Validação
-
-### 1. Enchentes no Rio Grande do Sul (Abril-Maio/2024)
-
-- **183 mortes**
-- **478 municípios afetados (78%)**
-- **2,4 milhões de pessoas impactadas**
-- **640 mil residências sem água e 440 mil sem energia**
-- **Perdas econômicas superiores a R$ 10 bilhões**  
-Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Enchentes_no_Rio_Grande_do_Sul_em_2024?utm_source=chatgpt.com)
-
-### 2. Enchentes e deslizamentos no Sudeste (Janeiro/2020)
-
-- **75 mortes**
-- **Mais de 4 mil desalojados**
-- **Estradas interditadas e prejuízos em infraestrutura**  
-Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Enchentes_e_deslizamentos_no_Sudeste_do_Brasil_em_2020?utm_source=chatgpt.com)
-
-### 3. Temporal em São Paulo (24 de Janeiro/2025)
-
-- **Estação de metrô alagada**
-- **Mais de 27 mil imóveis sem energia**
-- **Defesa Civil emitiu alerta severo**  
-Fonte: [UOL Notícias](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2025/01/24/chuvas-em-sao-paulo-janeiro-2025.htm?utm_source=chatgpt.com)
-
-### 4. Chuva intensa no Natal (25 de Dezembro/2024)
-
-- **Mais de 34 mil imóveis sem luz**
-- **7 pontos de alagamento intransitáveis**
-- **Alta umidade e calor como causas principais**  
-Fonte: [UOL Notícias](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/25/chuva-sao-paulo.htm?utm_source=chatgpt.com)
+- **Temporal em São Paulo (Janeiro/2025)**:  
+  - **27 mil imóveis sem energia**  
+  - **Defesa Civil emitiu alerta severo**  
+  Fonte: [UOL Notícias](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2025/01/24/chuvas-em-sao-paulo-janeiro-2025.htm)
 
 ---
 
 ## 🧠 Tecnologias Utilizadas
 
-- **IoT (Internet das Coisas)** para monitoramento ambiental.
-- **Machine Learning e IA** para predição de enchentes.
-- **API de Clima** para integração com dados meteorológicos.
-- **React / Next.js** para dashboard e visualização de dados.
-- **Firebase / AWS / Azure** para infraestrutura escalável.
-- **n8n / Make / Zapier** para automações com apps e alertas.
+O **FloodGuard IoT** combina diversas tecnologias de ponta para garantir eficiência no monitoramento e previsão de enchentes:
+
+- **IoT (Internet das Coisas)**: Sensores distribuídos para monitoramento em tempo real.
+- **Machine Learning e IA**: Modelos preditivos para estimar o risco de enchentes.
+- **API de Clima**: Integração com dados meteorológicos para previsão de eventos climáticos.
+- **React / Next.js**: Utilizados no desenvolvimento do painel de visualização e dashboard.
+- **Firebase / AWS / Azure**: Plataformas para a infraestrutura escalável do projeto.
+- **n8n / Make / Zapier**: Ferramentas para automações de alertas e integração com outros sistemas.
+
+### 🔮 Modelagem Preditiva com IA (forecast.py)
+
+O módulo **`forecast.py`** contém a lógica responsável pela previsão do risco de enchentes com base em dados de precipitação. Utiliza os seguintes modelos de machine learning:
+
+- **Random Forest**: Usado para prever os níveis de água com base em dados históricos e variáveis temporais (hora, dia, semana).
+- **Prophet**: Modelo de séries temporais que analisa tendências e sazonalidades para prever precipitações futuras.
+
+#### **Endpoints da API**:
+- **`/predict`** (POST): Retorna as previsões de risco de enchente com base na entrada de dados climáticos.
+- **`/train`** (POST): Treina ou re-treina o modelo com dados mais recentes.
+- **`/status`** (GET): Verifica o status do modelo ou da API.
+
+### 🛠️ Módulo de Previsão
+
+O modelo preditivo é integrado ao backend da aplicação para fornecer previsões precisas para a população e autoridades. As previsões são feitas com base nas condições meteorológicas e nos dados históricos de precipitação, estimando o risco de enchente (baixo, médio ou alto) para os próximos 6 a 24 horas.
+
+---
+
+## 🛠️ Funcionalidades Principais
+
+- **Sensores de Nível de Água**  
+  Monitoramento contínuo dos níveis de água em bueiros e bocas de lobo para detectar possíveis alagamentos.
+
+- **Análise Preditiva com IA**  
+  Algoritmos de machine learning que analisam dados climáticos e históricos para prever enchentes com antecedência.
+
+- **Alertas Inteligentes**  
+  Notificações em tempo real para moradores e Defesa Civil via aplicativo, SMS e e-mail, com base no risco de enchente identificado.
+
+- **Painel de Monitoramento para Prefeituras**  
+  Dashboard intuitivo que permite a visualização de dados em tempo real, ajudando na tomada de decisões rápidas.
+
+- **Energia Sustentável**  
+  O sistema é projetado para operar com fontes de energia renováveis, como painéis solares, garantindo maior autonomia e sustentabilidade.
+
+---
+
+## 🌍 Impacto Social e Sustentável
+
+### Alinhamento com os Objetivos de Desenvolvimento Sustentável (ODS):
+- **ODS 11** – Cidades e comunidades sustentáveis
+- **ODS 13** – Ação contra a mudança global do clima
+- **ODS 9** – Indústria, inovação e infraestrutura
+
+---
+
+## 📊 Pesquisa e Validação
+
+O **FloodGuard IoT** foi desenvolvido para atender a uma necessidade urgente de monitoramento e previsão de enchentes, com base em um cenário de desastres recentes e de alto impacto em diversas regiões do Brasil.
 
 ---
 
 ## 🏙️ Casos de Uso
 
+O sistema **FloodGuard IoT** pode ser utilizado por diversos stakeholders:
+
 - **Prefeituras e Defesa Civil**: Monitoramento de enchentes em tempo real.
-- **Empresas de saneamento**: Prevenção de transbordamentos.
-- **Condomínios e bairros**: Alertas diretos aos moradores.
-- **Seguradoras**: Prevenção e mitigação de riscos climáticos.
+- **Empresas de Saneamento**: Prevenção de transbordamentos e danos à infraestrutura.
+- **Condomínios e Bairros**: Alertas diretos aos moradores, prevenindo danos e perdas.
+- **Seguradoras**: Prevenção de riscos climáticos e redução de perdas financeiras.
 
 ---
 
 ## 📌 Roadmap
 
 - [x] Prototipagem de sensores IoT
-- [x] Integração com API meteorológica
+- [x] Integração com API meteorológica (Open-Meteo)
 - [ ] MVP funcional com painel web
 - [ ] Aplicativo móvel para moradores
 - [ ] Programa-piloto com prefeitura parceira
 - [ ] Escalonamento para outras cidades
+
+---
+
+## 👥 Integrantes
+
+- **André Rovai Andrade Xavier Junior** - RM555848
+- **Renan de França Gonçalves** - RM558413
+- **Thiago Almança da Silva** - RM558108
 
 ---
 
@@ -135,17 +135,14 @@ Contribuições são bem-vindas! Se você deseja ajudar com desenvolvimento, tes
 
 ## 📬 Contato
 
-Entre em contato com a equipe FloodGuard IoT:
+Entre em contato com a equipe **FloodGuard IoT**:
 
-- 📧 Email: [em construção]   
+- 💎 Email: [em construção]   
 - 🌐 Site: [em construção]  
-- 📱 Instagram: [em construção] 
+- 📱 Instagram: [em construção]
 
 ---
 
 ## 📄 Licença
 
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-```
